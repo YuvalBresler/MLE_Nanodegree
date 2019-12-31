@@ -1,6 +1,6 @@
 # Starbucks Capstone Project <!-- omit in toc -->
 
-This is my Capstone Project for Udacity's Machine Learning Engineer Nanodegree.  You can find a Medium article written about this project [here]().
+This is my Capstone Project for Udacity's Machine Learning Engineer Nanodegree.  You can find a Medium article written about this project [here](https://medium.com/@stephenblystone/starbucks-capstone-project-ccc477b6802c).
 
 ## Table of Contents <!-- omit in toc -->
 
@@ -39,7 +39,7 @@ We want to determine which kind of offer, if any, to send to each customer based
 - **proposal/proposal.pdf** - My initial proposal for this project.
 - **proposal/README.md** - README for my proposal.
 - **README.md** - This file.
-- **report.pdf** - My final report (the same content as my [Medium article]())
+- **report.pdf** - My final report (the same content as my [Medium article](https://medium.com/@stephenblystone/starbucks-capstone-project-ccc477b6802c))
 - **Starbucks_Capstone_notebook.ipynb** - My Jupyter Notebook containing all data exploration, cleaning, feature engineering, model building, hyperparameter tuning, and the results.
 - **tensorflow_nn.py** - Due to the Jupyter kernel repeatedly crashing when performing hyperparameter tuning with TensorFlow, I wrote the code in a separate file to perform hyperparameter tuning for the neural network.
 
